@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ntmextras:item/ammo_standard.rocket_micro"
+  }
+}

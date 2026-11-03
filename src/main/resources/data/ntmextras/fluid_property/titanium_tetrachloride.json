@@ -1,0 +1,16 @@
+{
+  "type": "liquid",
+  "color": "#dbf796",
+  "containers": {
+    "canister": {
+      "color": "#e1e549"
+    }
+  },
+  "nfpa": {
+    "flame": 0,
+    "health": 3,
+    "react": 2
+  },
+  "symbol": "NOWATER",
+  "temperature": 20
+}

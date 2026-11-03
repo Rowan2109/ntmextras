@@ -1,0 +1,27 @@
+{
+  "type": "hbm:ammo_press",
+  "key": {
+    "A": {
+      "ingredient": "hbm:ball_dynamite"
+    },
+    "B": {
+      "ingredient": "hbm:casing_large"
+    },
+    "C": {
+      "count": 2,
+      "ingredient": "#hbm:dusts/any_smokeless"
+    }
+  },
+  "order": 22784,
+  "output_items": [
+    {
+      "count": 9,
+      "id": "ntmextras:ammo_standard_rocket_micro"
+    }
+  ],
+  "pattern": [
+    " A ",
+    " B ",
+    " C "
+  ]
+}

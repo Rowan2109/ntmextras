@@ -1,0 +1,12 @@
+{
+  "type": "hbm:single_piece",
+  "aquatic": true,
+  "biomes": [
+    "minecraft:deep_ocean",
+    "minecraft:ocean"
+  ],
+  "height_offset": -10,
+  "spawn_overrides": {},
+  "start_pool": "ntmextras:single/submarine",
+  "step": "strongholds"
+}

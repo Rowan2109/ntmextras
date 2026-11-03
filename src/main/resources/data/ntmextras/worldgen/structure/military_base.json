@@ -1,0 +1,16 @@
+{
+  "type": "hbm:single_piece",
+  "biomes": [
+    "minecraft:frozen_river",
+    "minecraft:grove",
+    "minecraft:ice_spikes",
+    "minecraft:snowy_beach",
+    "minecraft:snowy_plains",
+    "minecraft:snowy_taiga"
+  ],
+  "height_offset": -5,
+  "max_height": 320,
+  "spawn_overrides": {},
+  "start_pool": "ntmextras:single/military_base",
+  "step": "strongholds"
+}

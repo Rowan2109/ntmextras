@@ -1,0 +1,8 @@
+{
+  "ambientocclusion": false,
+  "gui_light": "side",
+  "textures": {
+    "all": "ntmextras:block/models/network/network_separator",
+    "particle": "ntmextras:block/models/network/network_separator"
+  }
+}

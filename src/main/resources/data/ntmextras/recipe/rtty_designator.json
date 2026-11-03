@@ -1,0 +1,16 @@
+{
+  "type": "hbm:crafting_shaped",
+  "key": {
+    "C": "hbm:circuit_analog",
+    "R": "hbm:radio_torch_reader",
+    "T": "hbm:rangefinder"
+  },
+  "pattern": [
+    "R",
+    "C",
+    "T"
+  ],
+  "result": {
+    "id": "ntmextras:rtty_designator"
+  }
+}

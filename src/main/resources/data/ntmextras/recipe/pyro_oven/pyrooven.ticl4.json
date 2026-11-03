@@ -1,0 +1,8 @@
+{
+  "type": "hbm:pyro_oven",
+  "duration": 60,
+  "input_fluids": [ { "type": "ntmextras:titanium_tetrachloride", "amount": 1000 } ],
+  "order": 10768,
+  "output_fluids": [ { "type": "hbm:chlorine", "amount": 125 } ],
+  "output_items": [ { "count": 5, "id": "hbm:ingot_titanium" } ]
+}

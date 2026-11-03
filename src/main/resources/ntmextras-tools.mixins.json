@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "net.mcwarfare.ntmextras.tools.mixin",
+  "mixins": [
+    "MixinBlockLootCrate",
+    "MixinItemPool"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

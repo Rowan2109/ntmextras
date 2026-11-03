@@ -1,0 +1,16 @@
+{
+  "processors": [
+    {
+      "processor_type": "hbm:multiblock_assembly"
+    },
+    {
+      "processor_type": "hbm:loot_pile"
+    },
+    {
+      "processor_type": "hbm:bobble_randomizer"
+    },
+    {
+      "processor_type": "ntmextras:logic_direction"
+    }
+  ]
+}

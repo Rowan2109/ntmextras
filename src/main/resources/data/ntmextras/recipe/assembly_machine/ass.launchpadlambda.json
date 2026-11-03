@@ -1,0 +1,14 @@
+{
+  "type": "hbm:assembly_machine",
+  "duration": 1200,
+  "input_items": [
+    { "count": 64, "ingredient": "hbm:concrete_rebar" },
+    { "count": 24, "ingredient": "#hbm:plates_welded/steel" },
+    { "count": 4, "ingredient": "hbm:motor_bismuth" },
+    { "count": 1, "ingredient": "hbm:circuit_controller_advanced" },
+    { "count": 1, "ingredient": "hbm:drive_disk_flightdata_processed" }
+  ],
+  "order": 92673,
+  "output_items": [ "ntmextras:launchpad_lambda" ],
+  "power": 5000
+}

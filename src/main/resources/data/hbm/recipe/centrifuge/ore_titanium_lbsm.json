@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [ { "type": "hbm:flag", "name": "lbsm_simple_centrifuge" } ],
+  "type": "hbm:centrifuge",
+  "duration": 200,
+  "input_items": [ { "ingredient": "#c:ores/titanium" } ],
+  "order": 5632,
+  "output_items": [
+    { "count": 2, "id": "hbm:powder_titanium" },
+    { "count": 4, "id": "ntmextras:chunk_ore_ilmenite" },
+    { "id": "hbm:powder_iron" },
+    { "id": "minecraft:gravel" }
+  ],
+  "power": 200
+}

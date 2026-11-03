@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/block",
+  "ambientocclusion": false,
+  "textures": {
+    "all": "ntmextras:block/models/network/pipe_anchor_pneumatic",
+    "particle": "ntmextras:block/models/network/pipe_anchor_pneumatic"
+  }
+}

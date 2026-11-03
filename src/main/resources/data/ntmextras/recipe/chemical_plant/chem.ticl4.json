@@ -1,0 +1,13 @@
+{
+  "type": "hbm:chemical_plant",
+  "duration": 60,
+  "icon": { "components": { "hbm:fluid_content": { "type": "ntmextras:titanium_tetrachloride", "amount": 0 }, "minecraft:custom_model_data": { "colors": [ -2361450 ] } }, "id": "hbm:fluid_icon" },
+  "input_fluids": [ { "type": "hbm:chlorine", "amount": 500 } ],
+  "input_items": [
+    { "count": 4, "ingredient": "ntmextras:chunk_ore_ilmenite" },
+    { "ingredient": "#hbm:gems/any_coke" }
+  ],
+  "order": 21760,
+  "output_fluids": [ { "type": "ntmextras:titanium_tetrachloride", "amount": 4000 } ],
+  "power": 500
+}

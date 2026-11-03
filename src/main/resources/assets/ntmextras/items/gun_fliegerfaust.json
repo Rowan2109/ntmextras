@@ -1,0 +1,46 @@
+{
+  "model": {
+    "type": "hbm:gun",
+    "base": "ntmextras:item/gun_fliegerfaust_base",
+    "draws": [
+      {
+        "parts": [
+          "Launcher"
+        ]
+      },
+      {
+        "matrix": [
+          1.0, 0.0, 0.0, 0.0,
+          0.0, 1.0, 0.0, 0.0,
+          0.0, 0.0, 1.0, 2.0,
+          0.0, 0.0, 0.0, 1.0
+        ],
+        "parts": [
+          "Drum"
+        ]
+      }
+    ],
+    "equipped_muzzles": [
+      {
+        "duration": 150,
+        "kind": "normal",
+        "length": 7.5,
+        "matrix": [
+          -0.0, 0.0, 0.75, 0.0,
+          0.0, 0.75, 0.0, 0.0,
+          -0.75, 0.0, -0.0, 10.0,
+          0.0, 0.0, 0.0, 1.0
+        ],
+        "random_degrees": 90
+      }
+    ],
+    "mod_table": [
+      0.0, 0.0, -8.5, 0.0,
+      -0.0, -8.5, 0.0, 0.0,
+      8.5, 0.0, 0.0, 0.0,
+      -0.0, 0.0, 0.0, 1.0
+    ],
+    "obj": "ntmextras:models/weapons/fliegerfaust.obj",
+    "texture": "ntmextras:textures/models/weapons/fliegerfaust.png"
+  }
+}

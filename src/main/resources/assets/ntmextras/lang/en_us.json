@@ -1,0 +1,22 @@
+{
+  "item.ntmextras.chunk_ore_ilmenite": "Ilmenite Chunk",
+  "item.ntmextras.plate_alclad": "Aviation Grade Sheeting",
+  "block.ntmextras.titanium_tetrachloride": "Titanium Tetrachloride",
+  "hbmfluid.titanium_tetrachloride": "Titanium Tetrachloride",
+  "ass.alclad": "Aviation Grade Alclad",
+  "ass.titaniumconstruction": "Aviation Grade Titanium Construction",
+  "chem.lightconstruction": "Aviation Grade Light Construction",
+  "chem.carboncarbon": "Aviation Grade Carbon-Carbon Sheets",
+  "item.ntmextras.rtty_designator": "Redstone-over-Radio Designator",
+  "container.rttyDesignator": "Redstone-over-Radio Designator",
+  "item.ntmextras.gun_fliegerfaust": "HIMRAAL",
+  "item.ntmextras.ammo_standard_rocket_micro": "Micro Rocket",
+  "block.ntmextras.pipe_anchor_exhaust": "Exhaust Pipe Anchor",
+  "block.ntmextras.pipe_anchor_pneumatic": "Pneumatic Tube Anchor",
+  "block.ntmextras.network_separator": "Network Separator",
+  "block.ntmextras.launchpad_lambda": "Lambda Launch Pad",
+  "item.ntmextras.missile_lambda": "Lambda-98",
+  "entity.ntmextras.entity_rocket_lambda": "Lambda-98",
+  "desc.gui.lambda.auto": "§4Auto Mode§r\nStarts the countdown\nautomatically if possible.",
+  "desc.gui.lambda.manual": "§4Manual Mode§r\nRocket launch has to be\nstarted via button."
+}

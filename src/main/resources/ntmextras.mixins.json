@@ -1,0 +1,8 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "net.mcwarfare.ntmextras.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["DhChunkySetupMixin"],
+  "injectors": { "defaultRequire": 0 }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "hbm:assembly_machine",
+  "custom_localization": true,
+  "duration": 600,
+  "input_items": [
+    { "count": 4, "ingredient": "#c:plates/titanium" },
+    { "count": 8, "ingredient": "#hbm:ingots/any_plastic" }
+  ],
+  "order": 24336,
+  "output_items": [ "ntmextras:plate_alclad" ],
+  "power": 1000
+}

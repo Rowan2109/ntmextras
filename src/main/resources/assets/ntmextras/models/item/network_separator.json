@@ -1,0 +1,55 @@
+{
+  "ambientocclusion": false,
+  "display": {
+    "firstperson_lefthand": {
+      "rotation": [0.0, 45.0, 0.0],
+      "scale": [0.2, 0.2, 0.2],
+      "translation": [0.0, 2.0, 0.0]
+    },
+    "firstperson_righthand": {
+      "rotation": [0.0, 45.0, 0.0],
+      "scale": [0.2, 0.2, 0.2],
+      "translation": [0.0, 2.0, 0.0]
+    },
+    "fixed": {
+      "rotation": [0.0, 90.0, 0.0],
+      "scale": [0.3, 0.3, 0.3],
+      "translation": [0.0, -2.0, 0.0]
+    },
+    "ground": {
+      "rotation": [0.0, 90.0, 0.0],
+      "scale": [0.15, 0.15, 0.15],
+      "translation": [0.0, 2.0, 0.0]
+    },
+    "gui": {
+      "rotation": [30.0, 45.0, 0.0],
+      "scale": [0.3, 0.3, 0.3],
+      "translation": [0.0, -2.5, 0.0]
+    },
+    "head": {
+      "rotation": [0.0, 90.0, 0.0],
+      "scale": [0.3, 0.3, 0.3],
+      "translation": [0.0, 10.0, 0.0]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [75.0, 45.0, 0.0],
+      "scale": [0.15, 0.15, 0.15],
+      "translation": [0.0, 2.5, 0.0]
+    },
+    "thirdperson_righthand": {
+      "rotation": [75.0, 45.0, 0.0],
+      "scale": [0.15, 0.15, 0.15],
+      "translation": [0.0, 2.5, 0.0]
+    }
+  },
+  "gui_light": "side",
+  "loader": "hbm:obj",
+  "model": "ntmextras:models/network/network_separator.obj",
+  "skins": {
+    "all": ["Plane"]
+  },
+  "textures": {
+    "all": "ntmextras:block/models/network/network_separator",
+    "particle": "ntmextras:block/models/network/network_separator"
+  }
+}

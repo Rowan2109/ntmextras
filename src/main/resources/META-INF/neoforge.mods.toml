@@ -1,0 +1,32 @@
+modLoader = "javafml"
+loaderVersion = "[0,)"
+license = "LGPL-3.0-only"
+
+[[mods]]
+modId = "ntmextras"
+version = "${version}"
+displayName = "MC Warfare NTM Extras"
+description = "Content from HBM's Nuclear Tech Mod for 1.7.10 that NTM NEXT does not have yet. Not made by or affiliated with the NTM NEXT team."
+authors = "MC Warfare"
+credits = "HbmMods (The Bobcat) and the contributors to HBM's Nuclear Tech Mod: the original content, models and textures. movblock: NTM NEXT, which this add-on builds on."
+displayTest = "IGNORE_ALL_VERSION"
+
+[[mixins]]
+config = "ntmextras.mixins.json"
+
+[[mixins]]
+config = "ntmextras-tools.mixins.json"
+
+[[dependencies.ntmextras]]
+modId = "hbm"
+type = "required"
+versionRange = "${hbm_range}"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.ntmextras]]
+modId = "minecraft"
+type = "required"
+versionRange = "[26.2,26.3)"
+ordering = "NONE"
+side = "BOTH"

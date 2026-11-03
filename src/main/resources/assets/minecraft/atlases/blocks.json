@@ -1,0 +1,8 @@
+{
+  "sources": [
+    {
+      "type": "hbm:padded",
+      "resource": "ntmextras:block/models/network/network_separator"
+    }
+  ]
+}

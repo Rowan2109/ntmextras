@@ -1,0 +1,14 @@
+{
+  "type": "hbm:chemical_plant",
+  "custom_localization": true,
+  "duration": 400,
+  "input_fluids": [
+    { "type": "hbm:xylene", "amount": 1000 },
+    { "type": "hbm:phosgene", "amount": 1000 },
+    { "type": "hbm:sourgas", "amount": 4000 }
+  ],
+  "input_items": [ { "count": 2, "ingredient": "#c:plates/dura_steel" } ],
+  "order": 21776,
+  "output_items": [ "ntmextras:plate_alclad" ],
+  "power": 25000
+}

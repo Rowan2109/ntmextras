@@ -1,0 +1,8 @@
+{
+  "values": [
+    "ntmextras:launchpad_lambda",
+    "ntmextras:pipe_anchor_exhaust",
+    "ntmextras:pipe_anchor_pneumatic",
+    "ntmextras:network_separator"
+  ]
+}

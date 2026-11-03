@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "ntmextras:block/launchpad_lambda" }
+  }
+}
