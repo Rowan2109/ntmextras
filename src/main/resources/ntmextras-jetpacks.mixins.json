@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "net.mcwarfare.ntmextras.jetpacks.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "JetpackKindMixin"
+  ],
+  "client": [
+    "ArmorMovementHandlerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

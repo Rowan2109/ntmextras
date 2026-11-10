@@ -17,6 +17,9 @@ config = "ntmextras.mixins.json"
 [[mixins]]
 config = "ntmextras-tools.mixins.json"
 
+[[mixins]]
+config = "ntmextras-jetpacks.mixins.json"
+
 [[dependencies.ntmextras]]
 modId = "hbm"
 type = "required"

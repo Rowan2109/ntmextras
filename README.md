@@ -5,7 +5,8 @@ build X5863) that NTM NEXT does not have yet. It is not made by, or affiliated w
 
 Adds the Lambda-98 rocket and its launch pad, exhaust and pneumatic pipe anchors, the network separator, ilmenite and titanium
 tetrachloride, aviation grade sheeting, the Redstone-over-Radio designator, the HIMRAAL launcher and micro rockets, and four
-structures. Also holds a small fix so a new world can start with Distant Horizons and Chunky both installed.
+structures. Also holds a small fix so a new world can start with Distant Horizons and Chunky both installed, and lower top
+speeds for the Vectored Jetpack and the Boostpack (2026-11-09).
 
 ## Licence and credits
 
